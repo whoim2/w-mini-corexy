@@ -1,5 +1,5 @@
 # w-mini-corexy
-small&amp;simple coreXY printer with low weight feeder and linear shafts
+small&amp;simple coreXY printer with low weight feeder and linear shafts, 238x190x160 workplace
 
 
 ![preview](https://github.com/whoim2/w-mini-corexy/blob/main/preview.JPG)
