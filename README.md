@@ -11,11 +11,19 @@ k3d mini feeder: https://github.com/dmitry-sorkin/k3d-minifeeder
 
 [https://youtu.be/Zjof3f4mJVk](https://www.youtube.com/watch?v=Zjof3f4mJVk)
 
+
 Bearings: f623zz x16
+
 shafts: d8 L250 x2; d8 L300 x2
+
 steppers: nema17 x3; Q3948-60186 x1
+
 screw: T8 4 lead 2 pitch, 200mm, x1
+
 rivets: d4 L8 x120
+
+aluminum profile: 25x25x1,5 5meters
+
 
 cut e3dv6 radiator, drill 5.5mm hole, cut M6 thread. Use offcut steel bore 3mm heatbreak for mount sink in x-carriage and teflon tube 3/2mm from feeder to heatbreak.
 
