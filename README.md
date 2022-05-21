@@ -24,6 +24,8 @@ rivets: d4 L8 x120
 
 aluminum profile: 25x25x1,5 5meters
 
+heatblock: v5 16x16x12
+
 
 cut e3dv6 radiator, drill 5.5mm hole, cut M6 thread. Use offcut steel bore 3mm heatbreak for mount sink in x-carriage and teflon tube 3/2mm from feeder to heatbreak.
 
