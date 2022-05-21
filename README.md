@@ -1,5 +1,5 @@
 # w-mini-corexy
-small&amp;simple coreXY printer with low weight feeder and linear shafts, 238x190x160 workplace
+small&amp;simple coreXY printer with low weight feeder and linear shafts, 238x188x150 workplace
 
 cloud files - last versions: https://disk.yandex.ru/d/OpFREoRlxXPGTw
 
@@ -16,7 +16,7 @@ Bearings: f623zz x16
 
 shafts: d8 L250 x2; d8 L300 x2
 
-steppers: nema17 x3; Q3948-60186 x1
+steppers: nema17 17HS4401S x3; Q3948-60186 x1
 
 screw: T8 4 lead 2 pitch, 200mm, x1
 
