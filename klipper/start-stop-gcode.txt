@@ -1,0 +1,24 @@
+SET_GCODE_OFFSET Z=0.05
+LED_WHITE
+G28 ;Home
+G90
+G1 Z15.0 F6000 ;Move the platform down 15mm
+M109 S[first_layer_temperature]
+;Prime the extruder
+G92 E0
+G1 E15 F200
+
+
+
+
+
+M104 S0
+M140 S0
+;Retract the filament
+G92 E1
+G1 E-10 F1800
+G91
+G1Z10
+G90
+G1 X0Y0 F6000
+M84
