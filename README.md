@@ -6,6 +6,7 @@ MOD by Ahiko (recommended, standart linear bearings):
 or STEP assembly for solidworks:
 [link](https://github.com/whoim2/w-mini-corexy/raw/main/Ahiko/Assembly1.STEP.zip)
 
+![preview](https://github.com/whoim2/w-mini-corexy/raw/main/Ahiko/IMG_20230107_175328_774.jpg)
 
 Original cloud files - last versions: https://disk.yandex.ru/d/OpFREoRlxXPGTw
 
