@@ -3,6 +3,9 @@ small&amp;simple coreXY printer with low weight feeder and linear shafts, 238x18
 
 MOD by Ahiko (recommended, standart linear bearings):
 [link](https://github.com/whoim2/w-mini-corexy/tree/main/Ahiko)
+or STEP assembly for solidworks:
+[link](https://github.com/whoim2/w-mini-corexy/raw/main/Ahiko/Assembly1.STEP.zip)
+
 
 Original cloud files - last versions: https://disk.yandex.ru/d/OpFREoRlxXPGTw
 
